@@ -10,3 +10,9 @@ This project manages employee information.
 - View employee
 - Update employee
 - Delete employee
+
+## Technology
+
+- HTML
+- CSS
+- JavaScript
